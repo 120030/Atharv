@@ -1,0 +1,17 @@
+.line{
+    Width:70px;
+    height:7px;
+    background:black;
+    margin:8px auto;
+    
+}
+body{
+    text-align:center;
+}
+#apps{
+    background-color:coral;
+
+}
+#games{
+    background-color: aliceblue;
+}
